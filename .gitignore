@@ -1,0 +1,12 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary large test files
+source.txt
+target.txt
+target_direct.txt
+
+# macOS
+.DS_Store
